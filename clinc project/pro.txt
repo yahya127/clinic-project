@@ -1,0 +1,18 @@
+hossam => ecommerce
+esraa => medical ecommerce
+omnia => store app
+amira =>ecommerce
+ereny =>booking
+gorge => elearning
+shehab => clinic
+fatma => coffee shop
+marian => tourist
+marina => ecommerce
+m gamal => elearning
+m hefny => 
+mariana => ecommerce
+mostafa => dashboard for elearning
+merna => ecommerce
+saher
+nancy => ecommerce
+yehia => book store, clinic system
